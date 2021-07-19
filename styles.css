@@ -24,11 +24,11 @@ body{
 }
 .banner3{
     width: 100%;
-    height: 100vh;
     background-image: linear-gradient(rgba(0,0,0,0.40),rgba(0,0,0,0.45)),url(background2.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    background-repeat: repeat-y;
 }
 .navbar{
     width: 85%;
@@ -179,7 +179,7 @@ html{
     overflow:auto;
 }
 .gallery{
-    margin:5px;
+    margin:10px;
     float:left;
     width:390px;
 }
