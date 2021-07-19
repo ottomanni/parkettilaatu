@@ -39,8 +39,8 @@ body{
     justify-content: space-between;
 }
 .logo{
-    width: 220px;
-    border-radius: 5PX;
+    width: 400px;
+    border-radius: 8PX;
     cursor: pointer;
 }
 .navbar ul li{
